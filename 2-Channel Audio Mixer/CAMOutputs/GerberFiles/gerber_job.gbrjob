@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-07-23T15:54:58Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "schmatic"
+        },
+        "Owner": "ryanjamesdick ryanjamesdick <ryanjamesdick@gmail.com>",
+        "Size": {
+            "X": 90,
+            "Y": 77
+        }
+    }
+}
