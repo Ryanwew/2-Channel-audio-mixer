@@ -1,5 +1,9 @@
 Enclosure: 1x Adafruit Extruded Aluminum Box - 94mm x 83mm x 30mm - https://www.adafruit.com/product/2230
+
 Jack: 3x sparkfun Audio Jack 3.5mm - https://www.sparkfun.com/products/8032
+
 Dials: 2x RK14K12B0A0E https://www.mouser.ca/ProductDetail/Alps-Alpine/RK14K12B0A0E/?qs=sGAEpiMZZMukHu%252BjC5l7YaUyaWZ%2Fr%2FFDOW2lLWnoedI%3D
+
 Nuts: 2x M9x0.75x2.5mm Hex Nuts - https://www.ebay.ca/itm/M9x0-75x2-5mm-Carbon-Steel-Hex-Nuts-Fastener-50pcs-for-Screws-Bolts/351770383193?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
+
 Resistors: 4x 1k
